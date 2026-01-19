@@ -1,0 +1,102 @@
+{
+  "airports": [
+    {
+      "id": 0,
+      "code": "MA",
+      "name": "Manaus",
+      "lat": -3.119,
+      "lon": -60.0217
+    },
+    {
+      "id": 1,
+      "code": "BE",
+      "name": "Belém",
+      "lat": -1.4558,
+      "lon": -48.4902
+    },
+    {
+      "id": 2,
+      "code": "FO",
+      "name": "Fortaleza",
+      "lat": -3.7172,
+      "lon": -38.5434
+    },
+    {
+      "id": 3,
+      "code": "NA",
+      "name": "Natal",
+      "lat": -5.7945,
+      "lon": -35.211
+    },
+    {
+      "id": 4,
+      "code": "RE",
+      "name": "Recife",
+      "lat": -8.0476,
+      "lon": -34.877
+    },
+    {
+      "id": 5,
+      "code": "SA",
+      "name": "Salvador",
+      "lat": -12.9777,
+      "lon": -38.5016
+    },
+    {
+      "id": 6,
+      "code": "BR",
+      "name": "Brasília",
+      "lat": -15.7939,
+      "lon": -47.8828
+    },
+    {
+      "id": 7,
+      "code": "BH",
+      "name": "Belo Horizonte",
+      "lat": -19.9167,
+      "lon": -43.9345
+    },
+    {
+      "id": 8,
+      "code": "CI",
+      "name": "Cuiabá",
+      "lat": -15.601,
+      "lon": -56.0979
+    },
+    {
+      "id": 9,
+      "code": "RJ",
+      "name": "Rio de Janeiro",
+      "lat": -22.9068,
+      "lon": -43.1729
+    },
+    {
+      "id": 10,
+      "code": "SP",
+      "name": "São Paulo",
+      "lat": -23.5505,
+      "lon": -46.6333
+    },
+    {
+      "id": 11,
+      "code": "CR",
+      "name": "Curitiba",
+      "lat": -25.4284,
+      "lon": -49.2733
+    },
+    {
+      "id": 12,
+      "code": "FL",
+      "name": "Florianópolis",
+      "lat": -27.5954,
+      "lon": -48.548
+    },
+    {
+      "id": 13,
+      "code": "PA",
+      "name": "Porto Alegre",
+      "lat": -30.0346,
+      "lon": -51.2177
+    }
+  ]
+}

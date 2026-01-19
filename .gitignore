@@ -1,0 +1,51 @@
+# ---- Build artefacts (C++ / Qt) ----
+build/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.qrc.dep
+
+# Qt Creator / Qt project files gerados
+*.pro.user
+*.pro.user.*
+*.qbs.user
+
+# VS / CLion / IDE configs opcionais
+.vs/
+cmake-build-*/
+
+# ---- Python / Notebooks ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+venv/
+.venv/
+env/
+.env/
+
+# ---- Sistema operacional / editor ----
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS (caso o projeto seja aberto lá)
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Editor configs locais
+.vscode/
+

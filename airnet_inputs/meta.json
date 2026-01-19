@@ -1,0 +1,26 @@
+{
+  "day_start": 360,
+  "day_end": 1320,
+  "slot_min": 60,
+  "turnaround_min": 60,
+  "min_conn_min": 60,
+  "fleet_n": 250,
+  "seats_per_aircraft": 200,
+  "airport_order": [
+    "MA",
+    "BE",
+    "FO",
+    "NA",
+    "RE",
+    "SA",
+    "BR",
+    "BH",
+    "CI",
+    "RJ",
+    "SP",
+    "CR",
+    "FL",
+    "PA"
+  ],
+  "total_demand_od": 94800
+}
