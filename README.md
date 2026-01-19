@@ -1,6 +1,6 @@
 ## GA Flight Scheduler – Planejamento de Rotas Aéreas (Local)
 
-Aplicação para planejamento de malha aérea brasileira usando **algoritmo genético (GA)** em C++/Qt, com notebooks em Python para **gerar dados**, **analisar resultados** e **montar relatório em PDF** – tudo rodando **localmente**, sem Google Drive.
+Aplicação para planejamento de malha aérea brasileira usando **algoritmo genético (GA)** em C++/Qt, com notebooks em Python para **gerar dados**, **analisar resultados** e **montar relatório em PDF**.
 
 ![GA Flight Scheduler UI](images/ui.png)
 
@@ -36,8 +36,6 @@ Aplicação para planejamento de malha aérea brasileira usando **algoritmo gen�
   - Código-fonte em C++/Qt do programa (`AeroportosGA.exe`).
 - **images/**
   - `ui.png` – captura de tela da interface principal.
-- **README.txt**
-  - Versão original do README (focado em Google Colab / Drive).
 
 O arquivo **`README.md` (este)** é a versão atualizada com foco em **uso local**.
 
@@ -241,7 +239,7 @@ Coloque esse arquivo em `airnet_inputs/` (ou `jsons/`) e selecione-o no campo **
 
 ---
 
-## 6. Fluxo completo sugerido (100% local)
+## 6. Fluxo completo sugerido
 
 1. **(Opcional)** Rodar `Data Builder.ipynb` para gerar ou atualizar os JSONs base em `airnet_inputs/`.
 2. **Rodar o GA**:
